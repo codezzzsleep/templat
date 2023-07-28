@@ -3,7 +3,7 @@ package com.zzzsleep.project.constant;
 /**
  * 通用常量
  *
- * @author yupi
+ * @author zzzsleep
  */
 public interface CommonConstant {
 

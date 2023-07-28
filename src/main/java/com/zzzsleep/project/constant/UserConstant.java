@@ -3,7 +3,7 @@ package com.zzzsleep.project.constant;
 /**
  * 用户常量
  *
- * @author yupi
+ * @author zzzsleep
  */
 public interface UserConstant {
 

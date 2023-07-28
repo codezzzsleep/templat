@@ -3,7 +3,7 @@ package com.zzzsleep.project.common;
 /**
  * 错误码
  *
- * @author yupi
+ * @author zzzsleep
  */
 public enum ErrorCode {
 
